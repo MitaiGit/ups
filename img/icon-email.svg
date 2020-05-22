@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="icon-email-header.svg"
+   id="svg74"
+   version="1.1"
+   fill="none"
+   viewBox="0 0 20 14"
+   height="14"
+   width="20">
+  <metadata
+     id="metadata80">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs78" />
+  <sodipodi:namedview
+     inkscape:current-layer="svg74"
+     inkscape:window-maximized="1"
+     inkscape:window-y="28"
+     inkscape:window-x="0"
+     inkscape:cy="7"
+     inkscape:cx="10"
+     inkscape:zoom="59.214286"
+     showgrid="false"
+     id="namedview76"
+     inkscape:window-height="1024"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <path
+     style="fill:#000000"
+     id="path72"
+     fill="#288BE6"
+     d="M10 7.53977L1.81364 1.4H18.1864L10 7.53977ZM1.33333 11.1436L1.33333 2.76023L6.60587 6.71463L1.33333 11.1436ZM1.73385 12.6H18.2661L12.2665 7.56033L10.3875 8.96961L10 9.26023L9.61251 8.96961L7.73346 7.56033L1.73385 12.6ZM13.3941 6.71463L18.6667 11.1436V2.76023L13.3941 6.71463ZM1.33333 0C0.596954 0 0 0.626802 0 1.4V12.6C0 13.3732 0.596954 14 1.33333 14H18.6667C19.403 14 20 13.3732 20 12.6V1.4C20 0.626801 19.403 0 18.6667 0H1.33333Z"
+     clip-rule="evenodd"
+     fill-rule="evenodd" />
+</svg>
