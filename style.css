@@ -120,9 +120,12 @@ header {
 }
 
 section {
+  display: inline-grid;
   width: 99%;
   grid-area: s;
-  margin: 10px auto;  
+  margin: 10px auto;
+  justify-content: center; 
+  background-color: rgba(195, 214, 233, 0.5);
 }
 
 footer {
@@ -140,4 +143,5 @@ footer {
 
 p {
   font-size: 20px;
+  text-indent: 25px;
 }
